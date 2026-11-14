@@ -1,5 +1,9 @@
 # Headlamp / AKS Desktop plugin for *ahab*
 
+<h3 align="right">Tuple, LLC</h3>
+
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/ahab)](https://artifacthub.io/packages/search?repo=ahab)
+
 This plugin adds Ahab workload management to Headlamp and AKS Desktop. It uses
 the Ahab Azure Function API to provide:
 
