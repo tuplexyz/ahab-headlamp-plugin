@@ -1,6 +1,7 @@
 version: 0.1.0
 name: ahab
 displayName: ahab
+repositoryID: 28cb5d3c-67cd-4fcc-a881-9cd043c7cbf3
 createdAt: "2026-11-13T09:03:50Z"
 logoURL: "https://raw.githubusercontent.com/tuplexyz/plugins/main/src/assets/ahab_squid_01.png"
 description: A plugin for interacting with the ahab system for bioinformatics in AKS.
