@@ -5,7 +5,7 @@ homeURL: "https://tuple.xyz/solutions/ahab"
 createdAt: "2026-11-13T09:03:50Z"
 logoURL: "https://raw.githubusercontent.com/tuplexyz/ahab-headlamp-plugin/refs/heads/main/src/assets/ahab_squid_01.png"
 description: A plugin for interacting with the ahab system for bioinformatics in AKS.
-keywords: # (optional)
+keywords:
   - bioinformatics
   - computational biology
   - genomics
@@ -13,5 +13,5 @@ keywords: # (optional)
   - Azure Kubernetes Service
 annotations:
   headlamp/plugin/archive-url: "https://raw.githubusercontent.com/tuplexyz/ahab-headlamp-plugin/refs/heads/main/ahab-headlamp-plugin-0.1.0.tar.gz"
-  headlamp/plugin/archive-checksum: "sha256:47adb63f0c0d3c30ef4173e3b779ebfed312e4e95f68de5e0bb047eeb04ff709"
+  headlamp/plugin/archive-checksum: "SHA256:47adb63f0c0d3c30ef4173e3b779ebfed312e4e95f68de5e0bb047eeb04ff709"
   headlamp/plugin/distro-compat: app,web,linux,windows,mac
