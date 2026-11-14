@@ -1,2 +1,1 @@
-# ahab-headlamp-plugin
-Headlamp/AKS Desktop Plugin for ahab
+# Headlamp/AKS Desktop Plugin for ahab
