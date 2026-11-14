@@ -1,4 +1,4 @@
-# Ahab Headlamp plugin
+# Headlamp / AKS Desktop plugin for *ahab*
 
 This plugin adds Ahab workload management to Headlamp and AKS Desktop. It uses
 the Ahab Azure Function API to provide:
